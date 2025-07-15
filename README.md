@@ -51,4 +51,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-For any questions or feedback, please reach out! Enjoy exploring the website!
