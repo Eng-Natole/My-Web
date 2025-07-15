@@ -1,4 +1,4 @@
-# 🌐 My Personal Website
+# 🌐 My Personal Website using inly HTML 
 
 ## Overview
 
